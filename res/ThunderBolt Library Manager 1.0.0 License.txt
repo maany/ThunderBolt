@@ -1,0 +1,7 @@
+End User Lisence Agreement (EULA)
+
+The EULA is a legal agreement between you(End-User) and League Of Coders(LOC).
+
+By Installing or otherwise using ThunderBolt Library Manager you are bound to the following terms and conditions ->
+
+1) This software is maintained by LOC. This copy can be only used by National Institute of Technology, Delhi. Please do not proceed with installation if you are not installing this for NIT Delhi Library.
