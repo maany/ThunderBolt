@@ -10,3 +10,7 @@ This git repo contains all the code of ThunderBolt. Other related docs required 
 * Currently ThunderBolt is run by NIT Delhi Library
 
 The web-module for students is now live on openshift : [click here to visit] (http://thunderbolt-locofficial.rhcloud.com). For guest access, drop me a mail at imptodefeat@gmail.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/maany/thunderbolt/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
